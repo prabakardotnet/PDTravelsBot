@@ -1,0 +1,42 @@
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Bot Application.dll.config
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Bot Application.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Bot Application.pdb
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Autofac.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Chronic.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.Bot.Builder.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.Bot.Connector.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Newtonsoft.Json.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.Net.Http.Formatting.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.Web.Http.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.Web.Http.WebHost.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Autofac.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.Bot.Builder.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.Bot.Connector.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\Newtonsoft.Json.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.Net.Http.Formatting.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.Web.Http.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\System.Web.Http.WebHost.xml
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\obj\Debug\PDTravels.BotApp.csprojResolveAssemblyReference.cache
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\obj\Debug\PDTravels.BotApp.csproj.CoreCompileInputs.cache
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\obj\Debug\PDTravels.BotApp.csproj.CopyComplete
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\obj\Debug\Bot Application.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.BotApp\obj\Debug\Bot Application.pdb

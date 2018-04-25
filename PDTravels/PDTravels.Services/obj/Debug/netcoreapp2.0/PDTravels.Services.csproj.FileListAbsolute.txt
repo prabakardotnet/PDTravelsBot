@@ -1,0 +1,12 @@
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\bin\Debug\netcoreapp2.0\PDTravels.Services.deps.json
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\bin\Debug\netcoreapp2.0\PDTravels.Services.runtimeconfig.json
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\bin\Debug\netcoreapp2.0\PDTravels.Services.runtimeconfig.dev.json
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\bin\Debug\netcoreapp2.0\PDTravels.Services.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\bin\Debug\netcoreapp2.0\PDTravels.Services.pdb
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\obj\Debug\netcoreapp2.0\PDTravels.Services.csprojResolveAssemblyReference.cache
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\obj\Debug\netcoreapp2.0\PDTravels.Services.csproj.CoreCompileInputs.cache
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\obj\Debug\netcoreapp2.0\PDTravels.Services.AssemblyInfoInputs.cache
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\obj\Debug\netcoreapp2.0\PDTravels.Services.AssemblyInfo.cs
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\obj\Debug\netcoreapp2.0\PDTravels.Services.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.Services\obj\Debug\netcoreapp2.0\PDTravels.Services.pdb

@@ -1,0 +1,11 @@
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\bin\Debug\netcoreapp2.0\PDTravels.WebMvcApp.deps.json
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\bin\Debug\netcoreapp2.0\PDTravels.WebMvcApp.runtimeconfig.json
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\bin\Debug\netcoreapp2.0\PDTravels.WebMvcApp.runtimeconfig.dev.json
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\bin\Debug\netcoreapp2.0\PDTravels.WebMvcApp.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\bin\Debug\netcoreapp2.0\PDTravels.WebMvcApp.pdb
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\obj\Debug\netcoreapp2.0\PDTravels.WebMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\obj\Debug\netcoreapp2.0\PDTravels.WebMvcApp.AssemblyInfoInputs.cache
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\obj\Debug\netcoreapp2.0\PDTravels.WebMvcApp.AssemblyInfo.cs
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\obj\Debug\netcoreapp2.0\PDTravels.WebMvcApp.dll
+C:\Users\praba\Source\Repos\PDTravelsBot\PDTravels\PDTravels.WebMvcApp\obj\Debug\netcoreapp2.0\PDTravels.WebMvcApp.pdb
