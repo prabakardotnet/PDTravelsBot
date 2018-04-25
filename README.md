@@ -21,7 +21,7 @@ Response: You sent Hello World! which was 12 characters
 
 - In the Details pane you can see the JSON representation for the messages and responses.  
 (Click on any of the text in the conversation, then the Details pane will show the respective JSON)  
-
+![Alt text](/misc/BotRunning.jpg?raw=true "BOT Running")
 Hello World!:  
 {  
   "type": "message",  
