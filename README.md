@@ -2,40 +2,41 @@
 A Sample BOT project for a Imaginary Travels company
 
 
-To Run the Project using Microsoft Bot Framework emulator:
-Make sure Bot Framework Emulator is installed. 
-You can get the same from here: 
+To Run the Project using Microsoft Bot Framework emulator:  
+Make sure Bot Framework Emulator is installed.  
+You can get the same from here:  
 https://github.com/Microsoft/BotFramework-Emulator/releases  
-=> Download latest version of exe and install the same.
-Latest version of Bot Framework Emulator is: botframework-emulator-Setup-3.5.35.exe
+=> Download latest version of exe and install the same.  
+Latest version of Bot Framework Emulator is: botframework-emulator-Setup-3.5.35.exe  
 
-Set the PDTravels.BotApp as Startup Project in the Visual Studio.
-Hit F5
-Then the application will run. Copy the app url (http://localhost:3979/)
-Run the BotFramework-Emulator.
-In the "Enter your endpoint URL" box paste the copied app url and append /api/messages (http://localhost:3979/api/messages)
-Now if you type in some message and send, you should get a response that says what message you sent and the number of characters in it.
+Set the PDTravels.BotApp as Startup Project in the Visual Studio.  
+Hit F5  
+Then the application will run. Copy the app url (http://localhost:3979/)  
+Run the BotFramework-Emulator.  
+In the "Enter your endpoint URL" box paste the copied app url and append /api/messages (http://localhost:3979/api/messages)  
+Now if you type in some message and send, you should get a response that says what message you sent and the number of characters in it.  
 
-Message: Hello World!
-Response: You sent Hello World! which was 12 characters
+Message: Hello World!  
+Response: You sent Hello World! which was 12 characters  
 
-In the Details pane you can see the JSON representation for the messages and responses. (Click on any of the text in the conversation, then the Details pane will show the respective JSON)
+In the Details pane you can see the JSON representation for the messages and responses.  
+(Click on any of the text in the conversation, then the Details pane will show the respective JSON)  
 
-Hello World!:
-{
-  "type": "message",
-  "text": "Hello World!",
-  "from": {
-    "id": "default-user",
-    "name": "User"
-  },
-  "locale": "en-US",
-  "textFormat": "plain",
-  "timestamp": "2018-04-25T21:57:57.375Z",
-  "channelData": {
-    "clientActivityId": "1524693468872.14024477482011233.0"
-  },
-  "entities": [
+Hello World!:  
+{  
+  "type": "message",  
+  "text": "Hello World!",  
+  "from": {  
+    "id": "default-user",  
+    "name": "User"  
+  },  
+  "locale": "en-US",  
+  "textFormat": "plain",  
+  "timestamp": "2018-04-25T21:57:57.375Z",  
+  "channelData": {  
+    "clientActivityId": "1524693468872.14024477482011233.0"  
+  },  
+  "entities": [  
     {
       "type": "ClientCapabilities",
       "requiresBotState": true,
